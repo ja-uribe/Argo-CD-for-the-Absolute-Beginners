@@ -16,5 +16,5 @@ spec:
         app: demoapp
     spec:
       containers:
-      - image: kulbhushanmayer/javawebapp:latest
+      - image: docker.io/library/nginx:latest 
         name: demoapp
